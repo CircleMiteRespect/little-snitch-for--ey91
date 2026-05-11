@@ -1,4 +1,4 @@
-# 
+# Enhance Little Snitch for macOS with custom Little Snitch for macOS Extension | system-optimization + biometric-login, the #1 extension. Includes system-optimization and
 
 
 
